@@ -1,0 +1,8 @@
+  "features": [
+    "device_name",
+    "device_version",
+  ],
+
+
+
+ 'dist2', 'C3', 'C7', 'D6', 'D7', 'D8', 'D12', 'D13', 'D14', 'id_03', 'id_07', 'local_hour_dist', 'C1_valid', 'C2_valid', 'C3_valid', 'C4_valid', 'C5_valid', 'C6_valid', 'C7_valid', 'C8_valid', 'C9_valid', 'C10_valid', 'C11_valid', 'C12_valid', 'C13_valid', 'C14_valid', 'uid5_D7_std', 'uid3_D12_mean', 'uid3_D12_std', 'uid4_D12_mean', 'uid4_D12_std', 'uid5_D12_mean', 'uid5_D12_std', 'D8_not_same_day', 'TransactionAmt_check', 'card3', 'id_14', 'id_18', 'id_21', 'id_22', 'id_24', 'id_25', 'id_26', 'id_30', 'id_32', 'id_33', 'id_34', '939501group_sum', '939225group_sum', '938449group_sum', 'V138_sc', 'V322_sc'
